@@ -23,7 +23,7 @@ module.exports = {
     }
   },
   paths: {
-    sources: "./src/contracts",
+    sources: "./contracts",
     tests: "./src/test",
     cache: "./cache",
     artifacts: "./artifacts",
